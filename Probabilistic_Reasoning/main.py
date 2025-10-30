@@ -196,7 +196,6 @@ def dbnVariableElim(queryVar, evidence, cpts, elimOrder):
             factor = factor.restrict(var, evidence[var])
         factors.append(factor)
 
-
     for var in elimOrder:
         if var != queryVar and var not in evidence:
             relevant = [f for f in factors if var in f.vars]
@@ -257,4 +256,5 @@ def computeExpUtil(cpts, utilityTable, decisionVals):
 
 decisionVals = ['low', 'medium', 'high']
 expUtils = computeExpUtil(cpts, utilityTable, decisionVals)
+
 print("Expected Utilities:", expUtils)
