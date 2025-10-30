@@ -27,5 +27,5 @@ Each project folder typically contains:<br>
 
 ### Note
 
-This repository is intended for academic and portfolio presentation purposes.<br>
+This repository is intended for **academic** and **portfolio presentation** purposes.<br>
  For further details or access to non-public materials, please contact me directly.<br>
