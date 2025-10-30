@@ -71,9 +71,6 @@
 
 (a) NetworkX Documentation: https://networkx.org/documentation/stable/  
 (b) NumPy Documentation: https://numpy.org/doc/  
-
 (c) Russell, S. J., & Norvig, P. (2020). *Artificial Intelligence: A Modern Approach*. <br>
-
 (d) Dechter, R. (1999). Bucket elimination: A unifying framework for processing hard and soft constraints. *International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems*. <br>
-
  (e) Pearl, J. (1988). *Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference*. Morgan Kaufmann.<br>
