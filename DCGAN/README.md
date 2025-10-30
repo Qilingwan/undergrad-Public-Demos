@@ -70,7 +70,7 @@
 
 ## 5. Results / Outputs
 <p align="center">
-  <img src="outputDemo/Training_Loss.png" alt="Training_Loss" width="70%">
+  <img src="outputDemo/Training_Loss.png" alt="Training_Loss" width="50%">
 </p>
 
 **Epoch 10：**
@@ -100,6 +100,7 @@
 (a) PyTorch Official Documentation: https://pytorch.org/docs/stable/index.html<br>
 (b) CIFAR-10 Dataset: https://www.cs.toronto.edu/~kriz/cifar.html<br>
 (c) Radford, A., Metz, L., & Chintala, S. (2015). Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks<br>
+
 
 
 
