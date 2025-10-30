@@ -65,11 +65,11 @@
 ## 5. Results / Outputs
 
 <p align="center">
-  <img src="outputDemos/learningCurve.png" alt="Learning Curve" width="90%">
+  <img src="outputDemos/learningCurve.png" alt="Learning Curve" width="50%">
 </p>
 
 <p align="center">
-  <img src="outputDemos/heatMap.png" alt="Heat Map" width="90%">
+  <img src="outputDemos/heatMap.png" alt="Heat Map" width="50%">
 </p>
 
 
@@ -84,4 +84,5 @@
 
 (a) OpenAI Gymnasium for the Taxi-v3 environment.
 (b) Sutton, R.S. & Barto, A.G. (2018). *Reinforcement Learning: An Introduction (2nd Edition).*
+
 (c) NumPy, Pandas, Matplotlib, and Seaborn official documentation.
