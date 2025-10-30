@@ -70,7 +70,7 @@
 
 ## 5. Results / Outputs
 
-![Training Loss](outputDemo/Training Loss.png)
+![Training Loss](outputDemo/Training_Loss.png)
 
 **Epoch 10：**
 
@@ -97,4 +97,5 @@
 (b) CIFAR-10 Dataset: https://www.cs.toronto.edu/~kriz/cifar.html
 
 (c) Radford, A., Metz, L., & Chintala, S. (2015). Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
+
 
