@@ -8,7 +8,7 @@ This repository presents a curated selection of projects completed during my und
 
  Each project includes source code, documentation, and, where applicable, experimental results or visual outputs.<br>
 
-Please note that only publicly shareable works are included. Some course-related or confidential projects are not disclosed.  <br>
+**Please** note that only publicly shareable works are included. Some course-related or confidential projects are not disclosed.  <br>
 
 ### Structure
 
