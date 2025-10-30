@@ -69,20 +69,24 @@
 (g) Returned loss history for plotting
 
 ## 5. Results / Outputs
-
-![Training Loss](outputDemo/Training_Loss.png)
+<p align="center">
+  <img src="outputDemo/Training_Loss.png" alt="Training_Loss" width="70%">
+</p>
 
 **Epoch 10：**
-
-![epoch_10](outputDemo/epoch_10.png)
+<p align="center">
+  <img src="outputDemo/epoch_10.png" alt="epoch_10">
+</p>
 
 **Epoch 30：**
-
-![epoch_30](outputDemo/epoch_30.png)
+<p align="center">
+  <img src="outputDemo/epoch_30.png" alt="epoch_30">
+</p>
 
 **Epoch 50：**
-
-![epoch_50](outputDemo/epoch_50.png)
+<p align="center">
+  <img src="outputDemo/epoch_50.png" alt="epoch_50">
+</p>
 
 ## 6. Conclusion / Insights
 
@@ -97,5 +101,6 @@
 (b) CIFAR-10 Dataset: https://www.cs.toronto.edu/~kriz/cifar.html
 
 (c) Radford, A., Metz, L., & Chintala, S. (2015). Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
+
 
 
