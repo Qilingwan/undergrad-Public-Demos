@@ -7,7 +7,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 from collections import defaultdict
 
-id = input()
+id = input("Set id seed as:")
 
 idHash = int(hashlib.sha256(id.encode()).hexdigest(), 16) % (2**31)
 
@@ -258,3 +258,4 @@ decisionVals = ['low', 'medium', 'high']
 expUtils = computeExpUtil(cpts, utilityTable, decisionVals)
 
 print("Expected Utilities:", expUtils)
+
